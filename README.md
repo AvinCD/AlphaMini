@@ -1,10 +1,10 @@
 # Getting started with AlphaMini
 
-This repo focus on Getting started with Alphamini. 
+This repository focuses How to Get started with Alphamini. 
 
-This repository is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
+It is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
 
-To get started following things.
+To get started following things, are needed.
 *    Install AlphaMini app into your mobile. 
             * For Android [Click Here](https://play.google.com/store/apps/details?id=com.ubtechinc.alpha.mini.edu&hl=en_SG&pli=1).
             * For iOS [Click](https://apps.apple.com/us/app/alphamini/id1471118209) 
@@ -18,15 +18,20 @@ To get started following things.
 
 # Connecting AlphaMini to Computer.
 
-We recommend to use our repositor for easy start, and understand the code structure in making custome code for the alphamini by yourself.
+We recommend to use our repositor for quick start, easy understanding of the code structure in creating custome code for the alphamini by yourself.
 
-Apart from this repositor, we do have some other reasons, which officially publised from Alphamini.
+Apart from this repositor, there have some other resource, which are officially publised from Alphamini.
 * [Alphamini Documentation](https://docs.ubtrobot.com/alphamini/python-sdk-en/)  
 * [Alphamini Github](https://github.com/marklogg/mini_demo).
 
 
-## 
+## Prerequisite
 
+* Download **VScode editer**, Open source Code editer software. [Click Here](https://code.visualstudio.com/).
+
+* Download [python 3.8.10 version, Click Here](https://www.python.org/downloads/release/python-3810/).
+
+* Clone this Repository, to use the code and learn the coding structures.
 
 
 
