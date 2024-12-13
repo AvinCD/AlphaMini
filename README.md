@@ -6,8 +6,8 @@ It is for educational purpose only, developed my [**PSB Academy Students**](http
 
 To get started following things, are needed.
 *    Install AlphaMini app into your mobile. 
-            * For Android [Click Here](https://play.google.com/store/apps/details?id=com.ubtechinc.alpha.mini.edu&hl=en_SG&pli=1).
-            * For iOS [Click](https://apps.apple.com/us/app/alphamini/id1471118209) 
+    * For Android [Click Here](https://play.google.com/store/apps/details?id=com.ubtechinc.alpha.mini.edu&hl=en_SG&pli=1).
+    * For iOS [Click](https://apps.apple.com/us/app/alphamini/id1471118209) 
 
 * login via your user information.
 
@@ -25,7 +25,7 @@ Apart from this repositor, there have some other resource, which are officially 
 * [Alphamini Github](https://github.com/marklogg/mini_demo).
 
 
-## Prerequisite
+## Pre-Requisite
 
 * Download **VScode editer**, Open source Code editer software. [Click Here](https://code.visualstudio.com/).
 
