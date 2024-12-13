@@ -7,7 +7,7 @@ It is for educational purpose only, developed my [**PSB Academy Students**](http
 To get started following things, are needed.
 *    Install AlphaMini app into your mobile. 
 > For Android [Click Here](https://play.google.com/store/apps/details?id=com.ubtechinc.alpha.mini.edu&hl=en_SG&pli=1).
-   For iOS [Click](https://apps.apple.com/us/app/alphamini/id1471118209) 
+   For iOS [Click Here](https://apps.apple.com/us/app/alphamini/id1471118209) 
 
 * login via your user information.
 
@@ -33,6 +33,7 @@ Apart from this repositor, there have some other resource, which are officially 
 
 * Clone this Repository, to use the code and learn the coding structures.
 
+# Video 
 
 
 
