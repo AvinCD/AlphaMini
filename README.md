@@ -2,6 +2,8 @@
 
 This repository focuses How to Get started with Alphamini. 
 
+![](blob:https://in.pinterest.com/8f134675-9abe-4320-8110-2493b6598f3a =400x)
+
 It is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
 
 To get started following things, are needed.
