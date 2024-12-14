@@ -2,7 +2,7 @@
 
 This repository focuses How to Get started with Alphamini. 
 
-![](blob:https://in.pinterest.com/8f134675-9abe-4320-8110-2493b6598f3a)
+![](https://i.pinimg.com/736x/4c/4e/f6/4c4ef6a1432bb3587c54e1fc77e4c1c2.jpg =300x)
 
 It is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
 
