@@ -1,15 +1,19 @@
 # Getting started with AlphaMini
 
 This repository focuses How to Get started with Alphamini. 
+It is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
+
 
 ![](https://i.pinimg.com/736x/4c/4e/f6/4c4ef6a1432bb3587c54e1fc77e4c1c2.jpg)
 
-It is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
 
 To get started following things, are needed.
 *    Install AlphaMini app into your mobile. 
 > For Android [Click Here](https://play.google.com/store/apps/details?id=com.ubtechinc.alpha.mini.edu&hl=en_SG&pli=1).
-   For iOS [Click Here](https://apps.apple.com/us/app/alphamini/id1471118209) 
+   For iOS [Click Here](https://apps.apple.com/us/app/alphamini/id1471118209)
+
+![](https://i.pinimg.com/736x/16/bb/db/16bbdbe0e2e93e8bfb8d51487d09f7be.jpg)
+
 
 * login via your user information.
 
