@@ -1,5 +1,7 @@
 # Getting started with AlphaMini
 
+![](https://i.pinimg.com/736x/4c/4e/f6/4c4ef6a1432bb3587c54e1fc77e4c1c2.jpg)
+
 This repository focuses How to Get started with Alphamini. 
 
 It is for educational purpose only, developed my [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
@@ -9,7 +11,9 @@ To get started following things, are needed.
 > For Android [Click Here](https://play.google.com/store/apps/details?id=com.ubtechinc.alpha.mini.edu&hl=en_SG&pli=1).
    For iOS [Click Here](https://apps.apple.com/us/app/alphamini/id1471118209) 
 
-* login via your user information.
+   ![](https://i.pinimg.com/736x/16/bb/db/16bbdbe0e2e93e8bfb8d51487d09f7be.jpg =100x100)
+
+* Open the app and key in the Campus account accordingly
 
 * Connect the Alphamini to the local Wifi.
 
@@ -35,7 +39,24 @@ Apart from this repositor, there have some other resource, which are officially 
 
 # Video 
 
+* ## Connecting Alphamini - Phone
 
+   To Watch [Click Here]()
+
+
+* ## Connecting Alphamini - Computer
+
+   To Watch [Click Here]()
+
+
+
+# Good Practices:
+
+* Creating environment for Alphamini, creates a sperate python environment, which sperates from common/local python environment. 
+
+But you need install python packages separately for each new environment, moreover this will not clash with other python environment.
+
+For more, do [check this link](https://docs.python.org/3/library/venv.html).
 
 
 
