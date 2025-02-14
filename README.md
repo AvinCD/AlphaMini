@@ -1,5 +1,7 @@
 # Getting started with AlphaMini
 
+![](https://i.pinimg.com/736x/4c/4e/f6/4c4ef6a1432bb3587c54e1fc77e4c1c2.jpg)
+
 This repository focuses **How to Get started with Alphamini**. 
 <br></br>
 It is for educational purpose only, developed by [**PSB Academy Students**](https://www.psb-academy.edu.sg/)
@@ -49,11 +51,6 @@ Apart from this repositor, there have some other resource, which are officially 
 
 # Video 
 
-* # [Connecting Alphamini via Phone](https://youtu.be/gDOofyNAFEs?si=ig3nbakgSx-nsBwF)
-
-* # [Connecting Alphamini via Computer](https://youtu.be/i5M28vM3Qos?si=XaiIN1O2XT7gxjO-)
-
-     
 
 
 
