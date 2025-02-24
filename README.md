@@ -51,6 +51,19 @@ Apart from this repositor, there have some other resource, which are officially 
 
 # Video 
 
+* # [Connecting Alphamini via Phone](https://youtu.be/gDOofyNAFEs?si=ig3nbakgSx-nsBwF)
+
+
+
+
+* # [Connecting Alphamini via Computer](https://youtu.be/i5M28vM3Qos?si=XaiIN1O2XT7gxjO-)
+
+
+
+
+
+     
+
 
 
 
